@@ -1,0 +1,27 @@
+{
+  "name": "action-plan",
+  "version": "1.0.0",
+  "description": "Um estudo de Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/TiLourinho/action-plan"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "ejs",
+    "javascript"
+  ],
+  "author": "Tiago Lourinho",
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "method-override": "^3.0.0"
+  }
+}
